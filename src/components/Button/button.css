@@ -1,0 +1,22 @@
+.button_border {
+    color: #38a1f2;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 0;
+    border: 1px solid #38a1f2;
+}
+
+.button_border:hover,
+.button_border:focus {
+    color: #ffffff;
+    background-color: #38a1f2;
+}
+
+.button_bg {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 0;
+    border: 1px solid #38a1f2;
+    background-color: #38a1f2;
+}

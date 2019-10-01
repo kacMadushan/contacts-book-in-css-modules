@@ -1,0 +1,11 @@
+.heading {
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.heading_name {
+    color: #13171a;
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: 0;
+}

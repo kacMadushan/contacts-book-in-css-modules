@@ -1,0 +1,68 @@
+import uuid from 'uuid';
+
+export const contacts = [
+    {
+        id: uuid(),
+        avatar: 'https://avatars0.githubusercontent.com/u/1299233?s=400&v=4',
+        fullName: 'Carlos Toxtli',
+        mobile: '504-621-8927',
+        email: 'carlos@gmail.com',
+        groupBy: '3',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars3.githubusercontent.com/u/282080?s=400&v=4',
+        fullName: 'Brian Chan',
+        mobile: '201-971-1638',
+        email: 'brian@gmail.com',
+        groupBy: '1',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars0.githubusercontent.com/u/47313?s=400&v=4',
+        fullName: 'Fabien Potencier',
+        mobile: '925-634-7158',
+        email: 'fabien@gmail.com',
+        groupBy: '3',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars3.githubusercontent.com/u/1060?s=400&v=4',
+        fullName: 'Andrew Nesbitt',
+        mobile: '773-494-4195',
+        email: 'nesbitt@gmail.com',
+        groupBy: '1',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars1.githubusercontent.com/u/463230?s=400&v=4',
+        fullName: 'Taylor Otwell',
+        mobile: '973-943-3423',
+        email: 'taylor@gmail.com',
+        groupBy: '2',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars0.githubusercontent.com/u/64996?s=400&v=4',
+        fullName: 'Alex Crichton',
+        mobile: '419-573-2033',
+        email: 'crichton@gmail.com',
+        groupBy: '1',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars3.githubusercontent.com/u/618009?s=400&v=4',
+        fullName: 'Mike McNeil',
+        mobile: '352-242-2570',
+        email: 'mike@gmail.com',
+        groupBy: '3',
+    },
+    {
+        id: uuid(),
+        avatar: 'https://avatars0.githubusercontent.com/u/282759?s=400&v=4',
+        fullName: 'Ben Balter',
+        mobile: '310-579-2907',
+        email: 'balter@gmail.com',
+        groupBy: '2',
+    },
+];

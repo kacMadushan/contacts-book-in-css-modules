@@ -1,0 +1,46 @@
+.contact_list_item {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #e6ecf0; 
+}
+
+.contact_list_item_body{
+    padding-left: 12px;
+}
+
+.contact_name {
+    color: #13171a;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+}
+
+.contact_mobile {
+    color: #647786;
+    font-weight: 400;
+    font-size: 13px;
+    margin: 0;
+}
+
+.edit_link {
+    color: #647786;
+    font-size: 16px;
+    padding: 0 3px;
+}
+
+.edit_link:hover {
+    color: #38a1f2;
+}
+
+.remove_link {
+    color: #647786;
+    font-size: 16px;
+    padding: 0 3px;
+    cursor: pointer;
+}
+
+.remove_link:hover {
+    color: #38a1f2;
+}

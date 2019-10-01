@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #697a89;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #e6ecf0;
+}
+
+label {
+    color: #13171a;
+    font-weight: 500;
+    font-size: 13px;
+}

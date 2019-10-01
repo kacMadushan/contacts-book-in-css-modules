@@ -1,0 +1,8 @@
+.box {
+    display: block;
+    height: 590px;
+    margin: 0;
+    padding: 10px;
+    overflow: auto;
+    background-color: #ffffff;
+}

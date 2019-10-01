@@ -1,0 +1,11 @@
+.custom_field {
+    color: #697a89;
+    font-weight: 400;
+    font-size: 13px;
+    border-radius: 0;
+    border: 1px solid #e6ecf0; 
+}
+
+.custom_field:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25) !important;
+}
